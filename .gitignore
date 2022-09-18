@@ -3,3 +3,6 @@
 /android/local.properties
 /android/.gradle
 /android/.idea
+
+# Six-sided Dice Dataset
+/d6-dice
